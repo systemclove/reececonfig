@@ -11,7 +11,7 @@ https://github.com/systemclove/reececonfig/releases/download/latest/reececonfig.
 4. Right click TF2 in the steam library again and select Properties > General
 5. Set your launch options to these: (make sure to replace -w 1920 -h 1080 with whatever your monitor's resolution is.)
 
--dxlevel 95 -windowed -noborder -w 1920 -h 1080 -console -novid -high -condebug -conclearlog -usercon -g15
+``-dxlevel 95 -windowed -noborder -w 1920 -h 1080 -console -novid -high -condebug -conclearlog -usercon -g15``
 
 7. Launch the game, the config should be installed now! Look for the bunny in console to verify.
 
@@ -28,7 +28,7 @@ https://github.com/systemclove/reececonfig/releases/download/latest/reececonfig.
 7. Extract the "tf" folder from reececonfig.zip into the "Team Fortress 2" folder (the folder that contains the existing "tf" folder). Allow it to replace/overwrite files if it asks to.
 8. Remove "-autoconfig" from your launch options and replace them with these: (make sure to replace -w 1920 -h 1080 with whatever your monitors resolution is.)
 
--dxlevel 95 -windowed -noborder -w 1920 -h 1080 -console -novid -high -condebug -conclearlog -usercon -g15
+``-dxlevel 95 -windowed -noborder -w 1920 -h 1080 -console -novid -high -condebug -conclearlog -usercon -g15``
 
 9. Launch the game, the config should be installed now! look for the bunny in console to verify
 
