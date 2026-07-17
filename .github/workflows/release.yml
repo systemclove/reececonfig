@@ -16,7 +16,13 @@ jobs:
       - name: Zip tf folder
         run: zip -r reececonfig.zip tf
 
-      - name: Create/update release
+      - name: Delete old release and tag
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete latest --yes --cleanup-tag || true
+
+      - name: Create fresh release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
