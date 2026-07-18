@@ -45,7 +45,7 @@ Edit cfg/mybinds.cfg to add custom binds without disturbing other configs
 - My hitsound and killsound
 ### --- Medic ---
 - Mouse5 bound to Ubercharge ready (team chat bind + voiceline)
-- Mouse4 bound to quickbow script (hold F to fire a crossbow bolt, let go to switch back to medigun)
+- Mouse4 bound to quickbow script (hold to fire a crossbow bolt, let go to switch back to medigun)
 ### --- Engineer ---
 - Mouse4 bound to build sentry
 - Mouse5 bound to destroy sentry
