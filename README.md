@@ -1,7 +1,11 @@
 
+
 # reece's config
 A complete Team Fortress 2 config.
-This is mostly for my personal use but i'd be glad if it could help others!
+This is mostly for my personal use but i'd be glad if it could help others
+
+
+![https://i.ibb.co/FksszwqW/tf2logo2.png](https://i.ibb.co/FksszwqW/tf2logo2.png)
 
 ## Regular Install:
 1. Download the latest reececonfig.zip
